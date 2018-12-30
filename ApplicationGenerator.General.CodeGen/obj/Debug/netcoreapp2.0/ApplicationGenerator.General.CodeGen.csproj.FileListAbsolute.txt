@@ -1,0 +1,12 @@
+C:\Users\G40471\source\repos\ApplicationGenerator\ApplicationGenerator.General.CodeGen\bin\Debug\netcoreapp2.0\ApplicationGenerator.General.CodeGen.deps.json
+C:\Users\G40471\source\repos\ApplicationGenerator\ApplicationGenerator.General.CodeGen\bin\Debug\netcoreapp2.0\ApplicationGenerator.General.CodeGen.dll
+C:\Users\G40471\source\repos\ApplicationGenerator\ApplicationGenerator.General.CodeGen\bin\Debug\netcoreapp2.0\ApplicationGenerator.General.dll
+C:\Users\G40471\source\repos\ApplicationGenerator\ApplicationGenerator.General.CodeGen\bin\Debug\netcoreapp2.0\ApplicationGenerator.General.pdb
+C:\Users\G40471\source\repos\ApplicationGenerator\ApplicationGenerator.General.CodeGen\obj\Debug\netcoreapp2.0\ApplicationGenerator.General.CodeGen.csprojAssemblyReference.cache
+C:\Users\G40471\source\repos\ApplicationGenerator\ApplicationGenerator.General.CodeGen\obj\Debug\netcoreapp2.0\ApplicationGenerator.General.CodeGen.csproj.CoreCompileInputs.cache
+C:\Users\G40471\source\repos\ApplicationGenerator\ApplicationGenerator.General.CodeGen\obj\Debug\netcoreapp2.0\ApplicationGenerator.General.CodeGen.AssemblyInfoInputs.cache
+C:\Users\G40471\source\repos\ApplicationGenerator\ApplicationGenerator.General.CodeGen\obj\Debug\netcoreapp2.0\ApplicationGenerator.General.CodeGen.AssemblyInfo.cs
+C:\Users\G40471\source\repos\ApplicationGenerator\ApplicationGenerator.General.CodeGen\obj\Debug\netcoreapp2.0\ApplicationGenerator.General.CodeGen.csproj.CopyComplete
+C:\Users\G40471\source\repos\ApplicationGenerator\ApplicationGenerator.General.CodeGen\bin\Debug\netcoreapp2.0\ApplicationGenerator.General.CodeGen.pdb
+C:\Users\G40471\source\repos\ApplicationGenerator\ApplicationGenerator.General.CodeGen\obj\Debug\netcoreapp2.0\ApplicationGenerator.General.CodeGen.dll
+C:\Users\G40471\source\repos\ApplicationGenerator\ApplicationGenerator.General.CodeGen\obj\Debug\netcoreapp2.0\ApplicationGenerator.General.CodeGen.pdb

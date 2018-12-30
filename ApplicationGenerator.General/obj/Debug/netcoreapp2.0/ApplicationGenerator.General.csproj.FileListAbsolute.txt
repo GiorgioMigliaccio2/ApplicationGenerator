@@ -1,0 +1,9 @@
+C:\Users\G40471\source\repos\ApplicationGenerator\ApplicationGenerator.General\bin\Debug\netcoreapp2.0\ApplicationGenerator.General.deps.json
+C:\Users\G40471\source\repos\ApplicationGenerator\ApplicationGenerator.General\bin\Debug\netcoreapp2.0\ApplicationGenerator.General.dll
+C:\Users\G40471\source\repos\ApplicationGenerator\ApplicationGenerator.General\obj\Debug\netcoreapp2.0\ApplicationGenerator.General.csprojAssemblyReference.cache
+C:\Users\G40471\source\repos\ApplicationGenerator\ApplicationGenerator.General\obj\Debug\netcoreapp2.0\ApplicationGenerator.General.csproj.CoreCompileInputs.cache
+C:\Users\G40471\source\repos\ApplicationGenerator\ApplicationGenerator.General\obj\Debug\netcoreapp2.0\ApplicationGenerator.General.AssemblyInfoInputs.cache
+C:\Users\G40471\source\repos\ApplicationGenerator\ApplicationGenerator.General\obj\Debug\netcoreapp2.0\ApplicationGenerator.General.AssemblyInfo.cs
+C:\Users\G40471\source\repos\ApplicationGenerator\ApplicationGenerator.General\bin\Debug\netcoreapp2.0\ApplicationGenerator.General.pdb
+C:\Users\G40471\source\repos\ApplicationGenerator\ApplicationGenerator.General\obj\Debug\netcoreapp2.0\ApplicationGenerator.General.dll
+C:\Users\G40471\source\repos\ApplicationGenerator\ApplicationGenerator.General\obj\Debug\netcoreapp2.0\ApplicationGenerator.General.pdb

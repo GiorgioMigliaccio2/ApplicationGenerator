@@ -1,0 +1,18 @@
+{
+	"id": "general.tenant",
+	"name": "Tenant",
+	"description": "My Tenant object",
+	"version": "1.0",
+	"lastmodified": "2012-04-23T18:25:43.511Z",
+	"lastmodifiedby": "george",
+	"tenantspecific": "false",
+	"type": "class",
+	"icon": "base64:dgfjh",
+	"cache": "true",
+	"notes": "nothing",
+	"datamodel":
+	{
+		"id": "23ce975a-9f2d-4731-bf08-e82eba2baeb6",
+		"temp": "some data"
+	}	
+}
